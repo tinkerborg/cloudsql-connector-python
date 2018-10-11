@@ -1,3 +1,0 @@
-cachetools
-mysql-connector
-google-api-python-client

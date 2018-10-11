@@ -9,6 +9,7 @@ setup(name='cloudsql',
       packages=['cloudsql'],
       install_requires=[
         'mysql-connector',
-        'google-api-python-client'
+        'google-api-python-client',
+        'pyopenssl'
       ],
       zip_safe=False)
